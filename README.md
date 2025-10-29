@@ -1,4 +1,4 @@
-Rana_Algayeb_Dashboard.png
+![Dashboard Preview](Rana_Algayeb_Dashboard.png)
 #  Power BI project  - Bahrain Imports of Plastics (2020–2024) 
 
 
