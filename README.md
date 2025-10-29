@@ -1,8 +1,8 @@
 
-# 🧾 Bahrain Imports of Plastics (2020–2024)
+#  Power Bi project  - Bahrain Imports of Plastics (2020–2024) 
 
 
-## 🟦 1. Problem Statement
+##  1. Problem Statement
 
 From **2020 to 2024**, Bahrain’s imports of plastics showed noticeable fluctuations due to changes in **industrial demand**, **oil price volatility**, and **global supply chain challenges**.
 
@@ -12,7 +12,7 @@ This analysis explores **import patterns, supplier distribution, and pricing tre
 
 
 
-## 💡 2. Insights & Findings
+##  2. Insights & Findings
 
 1. **High concentration of imports:** Most imports come from **China and Saudi Arabia**, showing dependency on limited suppliers.
 2. **Fluctuating import values:** 2022 recorded a major spike followed by a decline, indicating market instability.
@@ -32,7 +32,7 @@ This analysis explores **import patterns, supplier distribution, and pricing tre
 
 
 
-## 🧰 5. Tools & Methods
+##  5. Tools & Methods
 
 **Data Preparation:**
 
