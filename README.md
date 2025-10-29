@@ -6,7 +6,7 @@
 
 From **2020 to 2024**, Bahrain’s imports of plastics showed noticeable fluctuations due to changes in **industrial demand**, **oil price volatility**, and **global supply chain challenges**.
 
-Although total imports reached **BD 769.88 million**, the country’s strong dependence on a few suppliers — mainly **Saudi Arabia, China, and the UAE** exposes potential **supply risks** and emphasizes the need for **diversification and better cost management**.
+Although total imports reached **BD 769.88 million**, the country’s strong dependence on a few suppliers mainly **Saudi Arabia, China, and the UAE** exposes potential **supply risks** and emphasizes the need for **diversification and better cost management**.
 
 This analysis explores **import patterns, supplier distribution, and pricing trends** using Power BI to support data-driven decision-making and enhance Bahrain’s trade resilience.
 
