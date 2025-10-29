@@ -22,7 +22,7 @@ This analysis explores **import patterns, supplier distribution, and pricing tre
 
 
 
-## 🧭 3. Recommendations
+##  3. Recommendations
 
 1. **Diversify import sources:** Explore new suppliers in **Europe and Southeast Asia** to reduce reliance on China and Saudi Arabia.
 2. **Negotiate long-term trade contracts:** Secure **stable pricing and supply continuity** through consistent supplier agreements.
